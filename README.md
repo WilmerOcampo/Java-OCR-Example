@@ -3,7 +3,7 @@
 
 ## Descripción
 
-**Java-OCR** es un proyecto en Java 21 con Maven que utiliza la biblioteca **Tess4J** para realizar reconocimiento óptico de caracteres (OCR) en imágenes. El objetivo principal del proyecto es extraer texto de imágenes utilizando el motor **Tesseract** y guardar el texto en archivos de texto.
+**Java-OCR / Image to Text** es un proyecto en Java 21 con Maven que utiliza la biblioteca **Tess4J** para realizar reconocimiento óptico de caracteres (OCR) en imágenes. El objetivo principal del proyecto es extraer texto de imágenes utilizando el motor **Tesseract** y guardar el texto en archivos de texto.
 
 El proyecto está configurado para trabajar con el motor **Tesseract** mediante el uso de archivos de datos entrenados (`traineddata`) específicos para los idiomas que se deseen procesar.
 
