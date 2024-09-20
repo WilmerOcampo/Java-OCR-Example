@@ -28,7 +28,7 @@ Utiliza Maven para gestionar las dependencias del proyecto.
 
 ### 2. Añadir la Biblioteca Tess4J
 
-Se puede añadir la biblioteca **Tess4J** a tu proyecto a través de Maven. Para ello, agrega la siguiente dependencia en tu archivo `pom.xml`:
+Se puede añadir la biblioteca **Tess4J** a tu proyecto a través de Maven. Para ello, agrega la siguiente dependencia en tu archivo `pom.xml`: [Tess4J Tesseract For Java](https://mvnrepository.com/artifact/net.sourceforge.tess4j/tess4j)
 
 ```xml
 <dependency>
