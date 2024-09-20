@@ -20,6 +20,10 @@ El proyecto está configurado para trabajar con el motor **Tesseract** mediante 
 - Biblioteca **Tess4J**
 - Archivos de datos entrenados de Tesseract (`tessdata`)
 
+- ### Adicional
+
+  - Crear la carpeta `Tess4j` en disco `D:` e ingresar la imagen que se desea a escanear (en este proyecto se utiliza la imagen `example1.png`)
+
 ## Configuración del Proyecto
 
 ### 1. Crear el proyecto Java 21 con Maven
